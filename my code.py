@@ -12,4 +12,5 @@ if di == ("right"):
 if di == ("left"):
     print ("You deside to go left")
 
+
     
